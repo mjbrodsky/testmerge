@@ -1,4 +1,7 @@
 test
 merge
 files
+<<<<<<< HEAD
 conf
+=======
+>>>>>>> d695cd3470cf9c93dd92cd3a93371cb75fc3c60e
